@@ -1,0 +1,8 @@
+To do a quick test-run, just issue (from this directory) the command:
+
+perl emacc2.pl --source en --target ro --input test\doclist-en.txt --input test\doclist-ro.txt --output test-alignment.txt
+
+In Windows, be sure to configure the file 'cluster.info' and 'emaccconf.pm' first! Especially if you have a lot of documents to align!
+In Windows it is advisable to run EMACC under Cygwin.
+
+For more details, please read ACCURAT D2.6 deliverable, Version 2.

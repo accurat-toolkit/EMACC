@@ -1,0 +1,5 @@
+./test/EN/Acheron_EN.txt
+./test/EN/Annapolis_EN.txt
+./test/EN/China_EN.txt
+./test/EN/Levant_EN.txt
+./test/EN/Nazism_EN.txt
